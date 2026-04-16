@@ -1,8 +1,0 @@
-import sys
-value1 = int(sys.argv[1])
-value2 = int(sys.argv[2])
-
-def soma (var1, var2):
-    print(var1+var2)
-
-soma(value1,value2)
